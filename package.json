@@ -1,0 +1,22 @@
+{
+    "name": "git-neon",
+    "displayName": "git-neon",
+    "description": "Example VS Code Extension for SCM",
+    "publisher": "vince-fugnitto",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "git-neon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/git-neon-color-theme.json"
+            }
+        ]
+    }
+}
