@@ -3,7 +3,8 @@
 	"type": "dark",
 	"colors": {
 		"editorGutter.modifiedBackground": "#01f9c6",
-		"editorGutter.deletedBackground": "#ff08e8"
+		"editorGutter.deletedBackground": "#ff08e8",
+		"descriptionForeground": "#ff08e8"
 	},
 	"tokenColors": [
 		{
